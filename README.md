@@ -1,3 +1,6 @@
+This is my attempt to convert Tulip2MF's yampad firmware to work with the mikoto board and update the code to current zmk/zephyr standards. Original readme below
+
+---
 This is my attempt to make the zmk firmware for the yampad to make it use nice!nano 2.0 and go wireless
 
 The Yampad project is an open-source, [QMK (Quantum Mechanical Keyboard Firmware)](https://github.com/qmk/qmk_firmware) powered, hot-swappable, RGB-backlighted, OLED featured, mechanical numpad. 
